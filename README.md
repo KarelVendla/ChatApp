@@ -8,4 +8,3 @@ Additionally i created a function for changing username.
 
 * Laravel framework
 * Pusher platform
-* 
