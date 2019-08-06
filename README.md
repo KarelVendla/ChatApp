@@ -7,3 +7,5 @@ Additionally i created a function for changing username.
 # What I Learned
 
 * Laravel framework
+* Pusher platform
+* 
